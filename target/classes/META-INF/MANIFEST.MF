@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: gustavopoa
+Build-Jdk: 11.0.1
+Implementation-Title: LotteryAPI
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.gustavoschaedler.api
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/LotteryAPI
+Created-By: Maven Integration for Eclipse
+
